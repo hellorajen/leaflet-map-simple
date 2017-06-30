@@ -1,0 +1,7 @@
+Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
+Google,"1600 Amphitheatre Parkway. Mountain View, CA 94043",37.4224082,-122.0856086,,Exact,Google geocode
+Microsoft,"1 Microsoft way, redmond, washington",47.6393225,-122.1283833,,Exact,Google geocode
+Apple,"‎1 Infinite Loop, Cupertino, CA 95014",37.3320003,-122.0307812,,Exact,Google geocode
+Infosys,"27, SJR Towers, 3rd Phase, J.P. Nagar Bengaluru , Karnataka - India",12.915652,77.5994159,,Exact,Google geocode
+TCS,"TCS House, Raveline Street, Fort, Mumbai",18.9380099,72.8322172,,Exact,Google geocode
+Wipro,"Wipro Limited Doddakannelli, Sarjapur Road Bangalore",12.9072594,77.6954735,,Exact,Google geocode
